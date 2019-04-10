@@ -1,5 +1,9 @@
-# animaltrackingsystem
+# AnimalTrackingSystem
 This repository contains all the necessary file for the development of the study.
+
+PROPONENTS:
+Cuenco, L.
+Jardiniano, K.
 
 ABSTRACT:
 
